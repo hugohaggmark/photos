@@ -1,1 +1,3 @@
+baseurl: "/photos" # the subpath of your site, e.g. /blog
+url: "https://hugohaggmark.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 theme: jekyll-theme-midnight
